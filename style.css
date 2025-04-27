@@ -1,0 +1,14 @@
+.whole{
+    margin: 0px;
+    padding: 0px;
+    height: 100vh;
+    width: 100vw;
+
+    background-image:url(https://png.pngtree.com/thumb_back/fh260/background/20231017/pngtree-icc-cricket-world-match-background-image_13943187.jpg );
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+
+}
